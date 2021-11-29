@@ -1,6 +1,6 @@
 # Create by Marcos Carnevale on 2021-11-01.
 # coding: utf-8
-# Report Receita - StageTaxaTarifa
+#
 # Enviroment: PySpark 3.6.0, Python 3.7.4
 # Version: 0.1
 
